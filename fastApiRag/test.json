@@ -1,0 +1,26 @@
+[
+  {
+    'candidate': 'Candidate 1',
+    'name': 'Robert Cooper',
+    'experience': 'Eight years experience in protecting and guarding VIP individuals in the military and defense sectors',
+    'score': '9'
+  },
+  {
+    'candidate': 'Candidate 2',
+    'name': 'Jason Miller',
+    'experience': 'Five years’ tenure in a shipping yard setting, maintaining an average picking/packing speed of 98%',
+    'score': '7'
+  },
+  {
+    'candidate': 'Candidate 3',
+    'name': 'Not Applicable',
+    'experience': 'Not Applicable',
+    'score': '0'
+  },
+  {
+    'candidate': 'Candidate 4',
+    'name': 'Not Applicable',
+    'experience': 'Not Applicable',
+    'score': '0'
+  }
+]

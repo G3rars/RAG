@@ -1,0 +1,14 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+### Solicitud POST para preguntar sobre libros
+POST http://127.0.0.1:8000/pregunta
+Content-Type: application/json
+
+{
+  "question": "tienes servicios en la nube?"
+}
